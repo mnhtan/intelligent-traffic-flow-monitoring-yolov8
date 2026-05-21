@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+
+# Runtime outputs
+assets/tmp/*
+!assets/tmp/.gitkeep
+
+# Local editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+
+weights/
+outputs/
+tmp/
+
+.env
+.venv/
+venv/
+
+.DS_Store
+docs/presentation-slides.pptx

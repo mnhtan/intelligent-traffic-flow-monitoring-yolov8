@@ -1,0 +1,15 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+pandas
+pillow
+cvzone
+streamlit-drawable-canvas
+svgpathtools
+torch
+scipy
+lap
+filterpy
+matplotlib
+scikit-image
