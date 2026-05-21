@@ -66,9 +66,9 @@ This project was developed as a **graduation thesis** titled **"Traffic Flow Tra
 
 ### Application Preview
 
-![Detection Demo](assets/detection-demo.png)
+![Detection Demo](assets/images/detection-demo.png)
 
-![ROI Canvas](assets/roi-canvas.png)
+![ROI Canvas](assets/images/roi-canvas.png)
 
 ---
 
