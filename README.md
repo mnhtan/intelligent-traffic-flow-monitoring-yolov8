@@ -56,7 +56,6 @@ This project was developed as a **graduation thesis** titled **"Traffic Flow Tra
 
 ## 2. Demo
 
-> Add your demo video, GIF, deployed app link, or thesis demo clip here.
 
 | Presentation Slides | [View Slides](https://canva.link/8aws9a28cqbrkml) |
 
@@ -270,19 +269,14 @@ ByteTrack performed better than SORT in most tracking metrics. It had higher MOT
 
 The detection page allows users to choose the model, adjust confidence threshold, upload an image, and view the detected result.
 
-![Vehicle Detection](assets/detection-demo.png)
+![Vehicle Detection](assets/images/detection-demo.png)
 
 ### 11.2 ROI Drawing
 
 The ROI page allows users to draw custom counting zones directly on the interface.
 
-![ROI Drawing](assets/roi-canvas.png)
+![ROI Drawing](assets/images/roi-canvas.png)
 
-### 11.3 Vehicle Tracking
-
-The tracking mode processes video frames and displays vehicle IDs across frames.
-
-![Vehicle Tracking](assets/tracking-demo.png)
 
 ---
 
