@@ -493,8 +493,6 @@ This project was developed as a graduation thesis.
 **Phan Minh Tan**
 
 - GitHub: [mnhtan](https://github.com/mnhtan)
-- LinkedIn: [YOUR_LINKEDIN_LINK_HERE]
-- Email: YOUR_EMAIL_HERE
 
 ---
 
